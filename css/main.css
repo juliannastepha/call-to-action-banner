@@ -41,6 +41,9 @@ h2, a {
 
 h2 {
   font-size: 3rem;
+  font-weight: bold;
+  margin: 0;
+  line-height: 1.2;
 }
 
 p {
@@ -52,7 +55,7 @@ p {
 
 a {
   text-decoration: none;
-  border-radius: 10px;
+  border-radius: 8px;
   padding: .5em .75em;
 }
 
@@ -66,9 +69,22 @@ a {
 
 .btn-big {
   font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .btn:hover {
   background-color: #000;
   border-color: #000;
+}
+
+.hero {
+  width: 35%;
+  margin: 1em;
+  margin-top: -1em;
+}
+
+.words {
+  width: 55%;
+  margin: 1em;
+  margin-top: -1em;
 }
