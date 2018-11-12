@@ -33,6 +33,7 @@ body {
   transform: translate(-50%, -50%);
   max-width: 45em;
   width: 100%;
+  padding-top: .5em;
 }
 
 h2, a {
@@ -78,13 +79,13 @@ a {
 }
 
 .hero {
-  width: 35%;
+  width: 33%;
   margin: 1em;
   margin-top: -1em;
 }
 
 .words {
-  width: 55%;
+  width: 57%;
   margin: 1em;
   margin-top: -1em;
 }
